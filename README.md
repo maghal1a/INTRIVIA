@@ -1,4 +1,3 @@
-
 # INTRIVIA 2026 
 
 ## Identitas Diri 
